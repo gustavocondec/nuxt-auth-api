@@ -1,5 +1,3 @@
-# ver-recuerdo-NUXT-SSR
-
 > My priceless Nuxt.js project
 
 forma de iniciaz
